@@ -1,0 +1,143 @@
+{
+	"identifier": {
+		"identifier": "dummy",
+		"identifierSource": "DOI"
+	},
+	"version": "GCF_000001635.38_GRCm38.p6",
+	"privacy": "public open",
+	"licenses": [
+		{
+			"name": "BY-NC-SA"
+		}
+	],
+	"creators": [
+		{
+			"name": "Genome Reference Consortium"
+		}
+	],
+	"types": [
+		{
+			"information": {
+				"value": "genomics"
+			}
+		}
+	],
+	"title": "Mus musculus reference genome sequence",
+	"description": "Reference genome sequences and annotation files for Mus musculus, as stored in the International Nucleotide Sequence Database.",
+	"storedIn": {
+		"name" : "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Mus_musculus/latest_assembly_versions/GCF_000001635.26_GRCm38.p6"
+	},
+	"dates": [
+		{
+			"type": {
+				"value":"CONP DATS JSON fileset creation date"
+			},
+			"date": "2019-08-13 13:48:54"
+		}
+	],
+	"distributions": [
+	        {
+			"formats": [
+				".GFF",
+				"FASTA"
+            		],
+			"size" : 2.7,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://www.ncbi.nlm.nih.gov/refseq",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+	"keywords": [
+		{
+			"value" : "reference sequences"
+		},
+		{
+			"value" : "genomics"
+		}
+	],	
+	"dimensions": [
+		{
+			"name": {
+				"value": "Size of genome (in Mb)"
+			},
+			"values": [
+				"2689.66"
+			]
+		},
+		{
+			"name": {
+				"value": "Percentage of genome composed of guanine/cytosine"
+			},
+			"values": [
+				"42.4891"
+			]
+		},
+		{
+			"name": {
+				"value": "Number of identified protein-encoding genes in genome"
+			},
+			"values": [
+				"61940"
+			]
+		}
+	],
+	"isAbout": [
+		{
+			"identifier": {
+				"identifier": "10090",
+				"identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10090"
+			},
+			"name":"Mus musculus"
+		}
+	],
+	"extraProperties": [
+		{
+			"category": "FTP link to GFF file containing detailed annotations",
+			"values": [
+				{
+					"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Mus_musculus/latest_assembly_versions/GCF_000001635.38_GRCm38.p6/GCF_000001635.26_GRCm38.p6_genomic.gff.gz"
+				}
+			]
+		},
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "https://www.ncbi.nlm.nih.gov/home/about/contact/"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "2"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.jpg"
+				}
+			]
+		}
+	]
+}
