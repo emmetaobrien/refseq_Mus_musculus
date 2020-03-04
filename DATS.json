@@ -3,7 +3,7 @@
 		"identifier": "dummy",
 		"identifierSource": "DOI"
 	},
-	"version": "GCF_000001635.38_GRCm38.p6",
+	"version": "GCF_000001635.26_GRCm38.p6",
 	"privacy": "public open",
 	"licenses": [
 		{
@@ -25,14 +25,14 @@
 	"title": "Mus musculus reference genome sequence",
 	"description": "Reference genome sequences and annotation files for Mus musculus, as stored in the International Nucleotide Sequence Database.",
 	"storedIn": {
-		"name" : "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Mus_musculus/latest_assembly_versions/GCF_000001635.26_GRCm38.p6"
+		"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/635/GCF_000001635.26_GRCm38.p6"
 	},
 	"dates": [
 		{
 			"type": {
 				"value":"CONP DATS JSON fileset creation date"
 			},
-			"date": "2019-08-13 13:48:54"
+			"value": "2020-02-04 14:17:39"
 		}
 	],
 	"distributions": [
@@ -103,7 +103,7 @@
 			"category": "FTP link to GFF file containing detailed annotations",
 			"values": [
 				{
-					"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Mus_musculus/latest_assembly_versions/GCF_000001635.26_GRCm38.p6/GCF_000001635.26_GRCm38.p6_genomic.gff.gz"
+	"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/635/GCF_000001635.26_GRCm38.p6/GCF_000001635.26_GRCm38.p6_genomic.gff.gz"
 				}
 			]
 		},
