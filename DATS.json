@@ -62,7 +62,7 @@
 		{
 			"value" : "genomics"
 		}
-	],	
+	],
 	"dimensions": [
 		{
 			"name": {
@@ -120,6 +120,14 @@
 			"values": [
 				{
 					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"consortium": "Genome Reference Consortium"
 				}
 			]
 		},
