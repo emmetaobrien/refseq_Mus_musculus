@@ -124,10 +124,10 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_consortium",
 			"values": [
 				{
-					"consortium": "Genome Reference Consortium"
+					"value": "Genome Reference Consortium"
 				}
 			]
 		},
